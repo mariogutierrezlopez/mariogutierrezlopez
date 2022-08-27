@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario Gutierrez</h1>
 <h3 align="center">A CS student and self taught full stack developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariogutierrezlopez&label=Profile%20views&color=0e75b6&style=flat" alt="mariogutierrezlopez" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariogutierrezlopez&label=Profile%20views&color=0e75b6&style=flat" alt="mariogutierrezlopez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogutierrezlopez&theme=dark_lover" alt="mariogutierrezlopez" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogutierrezlopez&theme=dark_lover" alt="mariogutierrezlopez" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
