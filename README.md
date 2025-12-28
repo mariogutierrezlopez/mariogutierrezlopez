@@ -24,7 +24,3 @@ I specialize in **Computer Vision**, **Reasoning Models**, and **Optimization Al
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
 
----
-
-### 📊 Github Stats
-(Aquí puedes dejar tus gráficas de contribuciones si te gustan, pero quita las que muestren lenguajes web como PHP o CSS como principales).
