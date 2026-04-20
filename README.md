@@ -4,9 +4,7 @@
 
 I specialize in **Computer Vision**, **Reasoning Models**, and **Optimization Algorithms**. My goal is to bridge the gap between theoretical research and scalable production systems.
 
-- 🔭 I’m currently working on **Bias Mitigation in CNN** (MSc Thesis).
-- 🧬 Researching **Metaheuristic Optimization** for complex problem solving.
-- 🏃‍♂️ Training for a **sub-4h Marathon**. Discipline in sports = Discipline in code.
+🔭 I’m currently working on **Bias Mitigation in CNN** (MSc Thesis).
 
 ---
 
